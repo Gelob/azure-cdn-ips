@@ -1,0 +1,8 @@
+*.*
+!.gitattributes
+!.gitignore
+!README.md
+!.gitkeep
+!*.txt
+!*.json
+!LICENSE
