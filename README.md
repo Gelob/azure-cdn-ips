@@ -1,6 +1,6 @@
 # azure-cdn-ips
 
-This repository contains 4 files that are updated daily based off of the contents from the [Azure CDN Edge Nodes List](https://docs.microsoft.com/en-us/rest/api/cdn/edgenodes/list). Azure decided that this IP list should be behind authentication instead of publicly available compared to [Azure IP Ranges and Service Tags](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
+This repository contains 4 files that are updated weekly based off of the contents from the [Azure CDN Edge Nodes List](https://docs.microsoft.com/en-us/rest/api/cdn/edgenodes/list). Azure decided that this IP list should be behind authentication instead of publicly available compared to [Azure IP Ranges and Service Tags](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
 
   - edgenodes.json - raw JSON pulled from the Azure API
   - edgenodes-ipv4.txt - parsed, sorted, and unique IPv4 subnets
