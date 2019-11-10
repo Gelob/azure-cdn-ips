@@ -10,8 +10,6 @@
               },{
                 "baseIpAddress":"46.22.64.0","prefixLength":20
               },{
-                "baseIpAddress":"61.49.62.128","prefixLength":25
-              },{
                 "baseIpAddress":"61.221.181.64","prefixLength":26
               },{
                 "baseIpAddress":"68.232.32.0","prefixLength":20
@@ -132,8 +130,6 @@
               },{
                 "baseIpAddress":"46.22.64.0","prefixLength":20
               },{
-                "baseIpAddress":"61.49.62.128","prefixLength":25
-              },{
                 "baseIpAddress":"61.221.181.64","prefixLength":26
               },{
                 "baseIpAddress":"68.232.32.0","prefixLength":20
@@ -253,8 +249,6 @@
                 "baseIpAddress":"5.104.64.0","prefixLength":21
               },{
                 "baseIpAddress":"46.22.64.0","prefixLength":20
-              },{
-                "baseIpAddress":"61.49.62.128","prefixLength":25
               },{
                 "baseIpAddress":"61.221.181.64","prefixLength":26
               },{
