@@ -95,6 +95,10 @@
                 "baseIpAddress":"203.66.205.0","prefixLength":24
               },{
                 "baseIpAddress":"110.164.36.0","prefixLength":24
+              },{
+                "baseIpAddress":"119.46.85.0","prefixLength":24
+              },{
+                "baseIpAddress":"49.231.126.0","prefixLength":24
               }
             ],"ipv6Addresses":[
               {
@@ -119,6 +123,10 @@
                 "baseIpAddress":"2600:40fc::","prefixLength":32
               },{
                 "baseIpAddress":"2403:6200:ffff:ffa1::","prefixLength":64
+              },{
+                "baseIpAddress":"2001:fb0:109f:8005::","prefixLength":64
+              },{
+                "baseIpAddress":"2405:9800:61:1::","prefixLength":64
               }
             ]
           }
@@ -219,6 +227,10 @@
                 "baseIpAddress":"203.66.205.0","prefixLength":24
               },{
                 "baseIpAddress":"110.164.36.0","prefixLength":24
+              },{
+                "baseIpAddress":"119.46.85.0","prefixLength":24
+              },{
+                "baseIpAddress":"49.231.126.0","prefixLength":24
               }
             ],"ipv6Addresses":[
               {
@@ -243,6 +255,10 @@
                 "baseIpAddress":"2600:40fc::","prefixLength":32
               },{
                 "baseIpAddress":"2403:6200:ffff:ffa1::","prefixLength":64
+              },{
+                "baseIpAddress":"2001:fb0:109f:8005::","prefixLength":64
+              },{
+                "baseIpAddress":"2405:9800:61:1::","prefixLength":64
               }
             ]
           }
@@ -343,6 +359,10 @@
                 "baseIpAddress":"203.66.205.0","prefixLength":24
               },{
                 "baseIpAddress":"110.164.36.0","prefixLength":24
+              },{
+                "baseIpAddress":"119.46.85.0","prefixLength":24
+              },{
+                "baseIpAddress":"49.231.126.0","prefixLength":24
               }
             ],"ipv6Addresses":[
               {
@@ -367,6 +387,10 @@
                 "baseIpAddress":"2600:40fc::","prefixLength":32
               },{
                 "baseIpAddress":"2403:6200:ffff:ffa1::","prefixLength":64
+              },{
+                "baseIpAddress":"2001:fb0:109f:8005::","prefixLength":64
+              },{
+                "baseIpAddress":"2405:9800:61:1::","prefixLength":64
               }
             ]
           }
