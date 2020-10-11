@@ -99,6 +99,8 @@
                 "baseIpAddress":"119.46.85.0","prefixLength":24
               },{
                 "baseIpAddress":"49.231.126.0","prefixLength":24
+              },{
+                "baseIpAddress":"136.228.144.0","prefixLength":24
               }
             ],"ipv6Addresses":[
               {
@@ -127,6 +129,8 @@
                 "baseIpAddress":"2001:fb0:109f:8005::","prefixLength":64
               },{
                 "baseIpAddress":"2405:9800:61:1::","prefixLength":64
+              },{
+                "baseIpAddress":"2404:b300:33:1::","prefixLength":64
               }
             ]
           }
@@ -231,6 +235,8 @@
                 "baseIpAddress":"119.46.85.0","prefixLength":24
               },{
                 "baseIpAddress":"49.231.126.0","prefixLength":24
+              },{
+                "baseIpAddress":"136.228.144.0","prefixLength":24
               }
             ],"ipv6Addresses":[
               {
@@ -259,6 +265,8 @@
                 "baseIpAddress":"2001:fb0:109f:8005::","prefixLength":64
               },{
                 "baseIpAddress":"2405:9800:61:1::","prefixLength":64
+              },{
+                "baseIpAddress":"2404:b300:33:1::","prefixLength":64
               }
             ]
           }
@@ -363,6 +371,8 @@
                 "baseIpAddress":"119.46.85.0","prefixLength":24
               },{
                 "baseIpAddress":"49.231.126.0","prefixLength":24
+              },{
+                "baseIpAddress":"136.228.144.0","prefixLength":24
               }
             ],"ipv6Addresses":[
               {
@@ -391,6 +401,8 @@
                 "baseIpAddress":"2001:fb0:109f:8005::","prefixLength":64
               },{
                 "baseIpAddress":"2405:9800:61:1::","prefixLength":64
+              },{
+                "baseIpAddress":"2404:b300:33:1::","prefixLength":64
               }
             ]
           }
